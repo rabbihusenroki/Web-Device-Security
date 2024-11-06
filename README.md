@@ -1,5 +1,9 @@
-<<<<<<< HEAD
 # Web-Device-Security
+
+## Screenshots
+
+## Home
+![127 0 0 1_8000_ (1)](https://github.com/rabbihusenroki/Web-Device-Security/blob/master/public/web-device-security.png)
 
 ## Overview
 The Web-Device-Security project is designed to enhance the security of connected devices through encrypted messaging and real-time data monitoring. It aims to prevent unauthorized access and ensure the confidentiality of data transmitted between IoT devices.
